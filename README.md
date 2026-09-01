@@ -40,8 +40,5 @@ The distance between the two points is: 7.07
 
 ## Author
 Name: Matthew Sebastian M. Gerada
-Section: 8-Sampaguita
-
-Name: Juan Dela Cruz
 
 Section: 8-Sampaguita

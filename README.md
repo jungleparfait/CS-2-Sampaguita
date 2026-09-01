@@ -2,8 +2,7 @@
 
 ## Description
 
-This program calculates the distance between two points (x1, y1) and (x2, y2) on a 2D plane
-
+This program calculates the distance between two points (x1, y1) and (x2, y2) on a Cartesian plane
 using input values and a math library.
 
 ## How to Run
@@ -28,15 +27,15 @@ using input values and a math library.
 
 ## Sample Output
 
-Enter x1: 2
+Enter x1: 6
 
-Enter y1: 3
+Enter y1: 7
 
-Enter x2: 7
+Enter x2: 5
 
-Enter y2: 8
+Enter y2: 5
 
-The distance between the two points is: 7.07
+The distance between the two points is: 1.0
 
 ## Author
 Name: Matthew Sebastian M. Gerada

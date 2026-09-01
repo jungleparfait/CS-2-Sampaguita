@@ -1,9 +1,9 @@
-# Distance Calculator
+# Distance Calculator 
 
 ## Description
 
 This program calculates the distance between two points (x1, y1) and (x2, y2) on a Cartesian plane
-using input values and a math library.
+using input values and a math library!
 
 ## How to Run
 

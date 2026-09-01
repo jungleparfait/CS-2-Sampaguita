@@ -8,7 +8,7 @@ def get_values(prompt):
         try:
             return float(input(prompt))
         except ValueError:
-            print("That is not a number.")
+            print("That is not a number..")
 
 
 # Ask user for coordinates of first and second point.
